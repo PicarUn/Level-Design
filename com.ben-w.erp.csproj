@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6C6F59ED-FC9B-3AA3-283A-BB94558A8D64}</ProjectGuid>
+    <ProjectGuid>{9055E6B6-E821-BC5A-413E-E288527610C8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.ben-w.erp</AssemblyName>

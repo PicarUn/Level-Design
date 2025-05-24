@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E8A91009-7186-A382-4FE4-3C21BA335F00}</ProjectGuid>
+    <ProjectGuid>{D7877DB4-5BDB-8AD8-78F0-913F6E196CAE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -1296,11 +1296,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{32C3BDE6-E125-3128-82C1-25D0441455A3}</Project>
+      <Project>{DF84079E-E7A5-B4AB-3663-BEE2F6A5F3E3}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="com.ben-w.erp.csproj">
-      <Project>{6C6F59ED-FC9B-3AA3-283A-BB94558A8D64}</Project>
+      <Project>{9055E6B6-E821-BC5A-413E-E288527610C8}</Project>
       <Name>com.ben-w.erp</Name>
     </ProjectReference>
   </ItemGroup>
